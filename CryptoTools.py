@@ -9,8 +9,8 @@
 
 import sys
 import argparse
-from XOR import XOR
-from file import File
+from Crypoto.XOR import *
+from modules.file import File
 
 def init():
     print(
